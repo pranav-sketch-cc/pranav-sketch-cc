@@ -7,21 +7,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+scalable+software+with+engineering+precision;AI%2FML+%7C+Full+Stack+Development+%7C+Cloud;Turning+ideas+into+production-ready+products;Engineering+systems%2C+not+just+features." alt="Typing SVG" />
 
 <br/>
-
 <img src="https://img.shields.io/badge/Information%20Technology-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/CGPA-7.93-6366F1?style=for-the-badge&logo=bookstack&logoColor=white" />
 <img src="https://img.shields.io/badge/Student%20Engineer-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white" />
 <img src="https://img.shields.io/badge/India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
 <br/><br/>
-
 <a href="https://github.com/pranav-sketch-cc"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pranavvarshan2007@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/pranav-sketch-cc"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=pranav-sketch-cc&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/pranav-sketch-cc?style=flat-square&color=6366F1&label=FOLLOWERS" />
 <img src="https://img.shields.io/github/stars/pranav-sketch-cc?style=flat-square&color=8B5CF6&label=STARS" />
@@ -38,30 +33,23 @@ My engineering interests sit at the intersection of **software engineering, arti
 
 I work across application development and modern web technologies, with hands-on experience building projects using **Flutter, React, FastAPI, Supabase, PostgreSQL, Python, JavaScript, and Git/GitHub**.
 
-My approach is product-oriented: understand the problem first, design the system properly, build with maintainability in mind, and ship something that creates measurable value.
-
 ### Open To
-
-`Software Engineering` · `AI/ML Engineering` · `Full Stack Development` · `App Development` · `Open Source` · `Hackathons` · `Product Engineering` · `Collaborative Projects`
+`Software Engineering` · `AI/ML Engineering` · `Full Stack Development` · `App Development` · `Open Source` · `Hackathons` · `Product Engineering`
 
 ---
 
 ## Tech Stack
 
 ### Languages
-
 <img src="https://skillicons.dev/icons?i=python,java,js,dart,cpp,html,css&theme=dark" />
 
 ### Frontend
-
 <img src="https://skillicons.dev/icons?i=flutter,react,vite,html,css,tailwind&theme=dark" />
 
 ### Backend & Databases
-
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,supabase,postgresql,mysql&theme=dark" />
 
 ### Cloud, DevOps & Tooling
-
 <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux,vscode,androidstudio,figma,canva&theme=dark" />
 
 ---
@@ -72,12 +60,10 @@ My approach is product-oriented: understand the problem first, design the system
 |---|---|---|
 | Machine Learning | Intermediate | Classification, clustering, model evaluation and applied ML workflows |
 | Deep Learning | Intermediate | CNN, RNN and neural-network fundamentals |
-| Natural Language Processing | Intermediate | Text processing and AI-assisted application concepts |
+| NLP | Intermediate | Text processing and AI-assisted application concepts |
 | Computer Vision | Intermediate | Image-based analysis and deep-learning foundations |
 | Generative AI | Intermediate | AI-assisted development, prompting and intelligent application workflows |
-| AI Security | Intermediate | AI-powered phishing detection and explainable security concepts |
-| Data Processing | Intermediate | Data preparation, feature handling and analytical workflows |
-| AI Product Engineering | Intermediate | Integrating AI capabilities into practical software products |
+| AI Security | Intermediate | AI-powered phishing detection and explainable analysis |
 
 ---
 
@@ -86,7 +72,7 @@ My approach is product-oriented: understand the problem first, design the system
 <details>
 <summary><strong>ShieldSense — AI Cyber Shield</strong></summary>
 
-An AI-assisted cybersecurity platform designed to analyze potentially malicious URLs and explain why a URL may be phishing, rather than simply returning a binary safe/unsafe result.
+AI-assisted cybersecurity platform for analyzing potentially malicious URLs and explaining phishing indicators.
 
 | Category | Details |
 |---|---|
@@ -94,87 +80,56 @@ An AI-assisted cybersecurity platform designed to analyze potentially malicious 
 | **Scale** | Modular security-analysis architecture |
 | **Performance** | Lightweight API-driven analysis pipeline |
 | **Security** | URL inspection · threat indicators · explainable analysis |
-| **Impact** | Makes phishing detection more understandable and actionable |
+| **Impact** | Makes phishing detection understandable and actionable |
 | **Repository** | [GitHub](https://github.com/pranav-sketch-cc/ShieldSense) |
-
-**Engineering Scope**
-
-- Designed an API-first cybersecurity architecture.
-- Built a FastAPI backend for security analysis.
-- Developed a React/Vite frontend for user interaction.
-- Implemented explainable phishing-analysis concepts.
-- Added automated backend tests and validated the API workflow.
 
 </details>
 
 <details>
 <summary><strong>FestaLynk — College Events Platform</strong></summary>
 
-A digital event-management platform designed to simplify discovery, registration, and engagement around college events.
+Digital event-management platform designed to simplify college event discovery and engagement.
 
 | Category | Details |
 |---|---|
 | **Stack** | Flutter · Dart · UI/UX · Figma |
 | **Scale** | Mobile-first application architecture |
 | **Performance** | Lightweight native mobile experience |
-| **Security** | Structured application and registration flow |
+| **Security** | Structured registration flow |
 | **Impact** | Streamlines student access to college events |
 | **Repository** | [GitHub](https://github.com/pranav-sketch-cc/FestaLynk) |
-
-**Engineering Scope**
-
-- Designed a structured event-discovery experience.
-- Developed application interfaces using Flutter.
-- Focused on reusable UI components and consistent navigation.
-- Applied product-oriented UX principles.
 
 </details>
 
 <details>
 <summary><strong>Clipyronment — Clipboard Synchronization</strong></summary>
 
-A cross-device clipboard synchronization project that connects client systems through a lightweight backend service.
+Cross-device clipboard synchronization project using a lightweight client-server architecture.
 
 | Category | Details |
 |---|---|
 | **Stack** | Python · Flask · Pyperclip · REST API |
 | **Scale** | Client-server synchronization architecture |
-| **Performance** | Lightweight clipboard polling and API communication |
+| **Performance** | Lightweight clipboard communication |
 | **Security** | API-based communication model |
 | **Impact** | Simplifies clipboard sharing between systems |
 | **Repository** | [GitHub](https://github.com/pranav-sketch-cc/Clipyronment) |
-
-**Engineering Scope**
-
-- Built a Python-based clipboard synchronization workflow.
-- Used Flask to expose backend functionality.
-- Integrated system clipboard operations.
-- Designed client-server communication through APIs.
-- Debugged and validated backend request flows.
 
 </details>
 
 <details>
 <summary><strong>I-Tekron 2K26 — Technical Symposium Platform</strong></summary>
 
-A modern event platform created for a departmental technical symposium, covering event discovery, registration workflows, payments, and responsive user experiences.
+Modern event platform covering event discovery, registration workflows, payments and responsive experiences.
 
 | Category | Details |
 |---|---|
 | **Stack** | Web · Supabase · Razorpay · Vercel |
 | **Scale** | Multi-event symposium platform |
-| **Performance** | Responsive and deployment-ready architecture |
-| **Security** | Payment verification · rate limiting · registration validation |
+| **Performance** | Responsive deployment-ready architecture |
+| **Security** | Payment verification · rate limiting · validation |
 | **Impact** | Digitizes symposium registration and event management |
 | **Repository** | [GitHub](https://github.com/pranav-sketch-cc/Itekron2k26) |
-
-**Engineering Scope**
-
-- Designed a responsive technical-symposium web experience.
-- Structured technical and non-technical event categories.
-- Integrated backend storage concepts using Supabase.
-- Planned secure payment verification workflows.
-- Designed deployment architecture around Vercel.
 
 </details>
 
@@ -183,22 +138,16 @@ A modern event platform created for a departmental technical symposium, covering
 ## Experience
 
 ### Intern — App Development
-**NIPIX Technologies**  
-`2026`
+**NIPIX Technologies** · `2026`
 
-Worked on application-development workflows with a focus on Flutter-based mobile development and practical software engineering.
+Worked on Flutter-based application development and practical software engineering workflows.
 
-**Scope of Work**
-
-- Developed mobile application interfaces using Flutter.
-- Worked with Dart and modern application-development practices.
+- Developed mobile interfaces using Flutter and Dart.
 - Collaborated within a development team.
-- Translated product requirements into functional UI workflows.
+- Translated requirements into functional UI workflows.
 - Explored backend integration and application architecture.
 
-**Skills**
-
-`Flutter` `Dart` `Mobile Development` `UI/UX` `Git` `Team Collaboration`
+`Flutter` `Dart` `Mobile Development` `UI/UX` `Git`
 
 ---
 
@@ -210,10 +159,9 @@ Worked on application-development workflows with a focus on Flutter-based mobile
 |---|---|
 | **Hackathon Builder** | Developed AI and cybersecurity-oriented software concepts |
 | **SIH Participant** | Worked on solution architecture and prototype planning |
-| **Technical Symposium Developer** | Built and maintained a departmental symposium web platform |
-| **App Development Intern** | Gained practical experience in Flutter application development |
-| **Project Builder** | Built applications spanning AI, cybersecurity, IoT and full-stack development |
-| **Technical Event Organizer** | Contributed to planning and execution of technical college initiatives |
+| **Technical Symposium Developer** | Built a departmental symposium web platform |
+| **App Development Intern** | Gained practical Flutter application-development experience |
+| **Project Builder** | Built projects spanning AI, cybersecurity, IoT and full-stack development |
 
 </div>
 
@@ -258,25 +206,18 @@ Worked on application-development workflows with a focus on Flutter-based mobile
 ---
 
 ## GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pranav-sketch-cc&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=pranav-sketch-cc&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" /></div>
 
 ---
 
 ## Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-sketch-cc&bg_color=0D1117&color=A78BFA&line=7C3AED&point=8B5CF6&area=true&hide_border=true" width="100%" />
-</div>
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-sketch-cc&bg_color=0D1117&color=A78BFA&line=7C3AED&point=8B5CF6&area=true&hide_border=true" width="100%" /></div>
 
 ---
 
 ## Contribution Snake
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/pranav-sketch-cc/pranav-sketch-cc/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/pranav-sketch-cc/pranav-sketch-cc/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
 ---
@@ -296,14 +237,12 @@ Building:
   - Full-stack products
   - Flutter applications
   - Cybersecurity solutions
-  - Intelligent developer tools
 
 Exploring:
   - Generative AI
   - LLM-powered systems
   - AI security
   - Distributed systems
-  - Production-grade architectures
 
 Open To:
   - Software Engineering Opportunities
@@ -311,13 +250,11 @@ Open To:
   - Full Stack Development
   - Open Source Collaboration
   - Hackathons
-  - Product Engineering
 ```
 
 ---
 
 ## Connect
-
 <div align="center">
 <a href="mailto:pranavvarshan2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -331,8 +268,6 @@ Open To:
 
 ### “Build with purpose. Engineer with precision. Ship with impact.”
 
-<a href="https://capsule-render.vercel.app/">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" width="100%" />
-</a>
 
 </div>
